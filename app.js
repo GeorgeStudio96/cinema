@@ -9,6 +9,8 @@ cinema
         movie = data;
         console.log(movie, 'movie')
 
+
+
         const genres = getGenres()
         console.log(genres)
         genres.forEach(item => {
